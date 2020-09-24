@@ -8,7 +8,7 @@ A code sample for interviewing at Highspot. Fufills the following requirements:
 - Display a loading indicator when communicatying with API
 - Uses responsive design
 - Displays results in a card format which includes API data for card Image, Name, Set Name and Type
-- Allows for searching for a crad by name
+- Allows for searching for a card by name
 
 ## Installation
 
