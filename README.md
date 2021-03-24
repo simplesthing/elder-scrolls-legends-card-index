@@ -1,6 +1,6 @@
-# Highspot
 
-A code sample for interviewing at Highspot. Fufills the following requirements:
+
+A code sample for an interview Fufills the following requirements:
 
 - Calls to Elder Scrolls Legends API for content
 - Displays results in sets of 20
